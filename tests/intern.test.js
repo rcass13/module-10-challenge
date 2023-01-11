@@ -6,14 +6,14 @@ test("setting up school with the constructor", () => {
     expect(employee.school).toBe(testValue);
 })
 
-test("getRole function", () => {
+test("findRole function", () => {
     const testValue = "Intern";
     const employee = new Intern("Roo", 1, "roo@slay.com", testValue);
-    expect(employee.getRole()).toBe(testValue);
+    expect(employee.findRole()).toBe(testValue);
 })
 
 test("Get school", () => {
     const testValue = "rcass13";
     const employee = new Intern("Roo", 1, "roo@slay.com", testValue);
-    expect(employee.getSchool()).toBe(testValue);
+    expect(employee.findSchool()).toBe(testValue);
 })

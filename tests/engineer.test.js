@@ -1,6 +1,6 @@
 const Engineer = require('../lib/engineer');
 
-test("setting up github with the constructor", () => {
+test("setting up github", () => {
     const testValue = "rcass13";
     const employee = new Engineer("Roo", 1, "roo@slay.com", testValue);
     expect(employee.github).toBe(testValue);

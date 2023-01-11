@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/rcass13/module-10-challenge#readme",
   "dependencies": {
-    "inquirer": "^8.2.5",
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
     "jest": "^29.3.1"
   }
 }
