@@ -3,7 +3,7 @@
 This app uses Node, NPM, Inquirer, Email-Validation, and Jest. User will follow prompts then recieve a webpage with their teams information.
 
 ## Video Walkthrough
---------
+https://drive.google.com/file/d/1KYmz-ntwo35wql-n_DYkEynXp2acku5K/view
 
 ## User Story
 AS A manager
