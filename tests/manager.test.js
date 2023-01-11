@@ -13,7 +13,7 @@ test("findRole function", () => {
 })
 
 test("Get Office Number", () => {
-    const testValue = "rcass13";
+    const testValue = "100";
     const employee = new Manager("Roo", 1, "roo@slay.com", testValue);
     expect(employee.findOfficeNumber()).toBe(testValue);
 })

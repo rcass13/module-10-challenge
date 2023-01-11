@@ -51,7 +51,7 @@ const generateCard = function (arr) {
     return `
     
 <div class="col-md-4 col-sm-6 col-12 col-lg-3">
-    <div class="card shadow-lg mb-5 bg-secondary rounded">
+    <div class="card shadow-lg mb-5 bg-white rounded">
         <div class="card-header bg-success">
             <h4 class="text-white text-center">${arr.name}</h4>
             <h4 class="text-white text-center">${positionIcon}</i> ${arr.title}</h4>

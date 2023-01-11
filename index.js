@@ -9,7 +9,6 @@ const Engineer = require("./lib/Engineer");
 const Intern = require("./lib/Intern");
 const html = require("./src/generate.html");
 
-
 // async functions
 const writeFileAsync = util.promisify(fs.writeFile);
 const appendFileAsync = util.promisify(fs.appendFile);
