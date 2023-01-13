@@ -6,7 +6,7 @@ This app uses Node, NPM, Inquirer, Email-Validation, and Jest. User will follow 
 https://drive.google.com/file/d/1KYmz-ntwo35wql-n_DYkEynXp2acku5K/view
 
 Video walkthrough is missing tests, however I figured out how to run them (most passed) and it is demonstrated in this screenshot:
-./images/Screen Shot 2022-12-06 at 8.37.04 PM.png
+./images/Screenshot 2023-01-12 at 4.05.25 PM.png
 
 
 ## User Story
